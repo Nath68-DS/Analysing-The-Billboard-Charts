@@ -1,0 +1,1 @@
+Coding and results for prediction models, attempting to analyse past music chart data in order to predict if a future song will become a hit. Uses the dataset from the billboard top 100 (https://www.kaggle.com/datasets/suparnabiswas/billboard-hot-1002000-2023-data-with-features) and is primarily based around muical feature variables.
